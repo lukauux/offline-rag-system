@@ -1,0 +1,65 @@
+{
+  "chunk_size": 200,
+  "chunk_overlap": 40,
+  "models": {
+    "clip": "clip-ViT-B-32",
+    "whisper": "base",
+    "git": "microsoft/git-base"
+  },
+  "supported_formats": {
+    "documents": [
+      ".pdf",
+      ".docx",
+      ".doc",
+      ".txt",
+      ".md",
+      ".rtf",
+      ".html",
+      ".htm",
+      ".epub",
+      ".pptx"
+    ],
+    "images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".webp",
+      ".bmp",
+      ".gif",
+      ".tiff"
+    ],
+    "audio": [
+      ".mp3",
+      ".wav",
+      ".m4a",
+      ".ogg",
+      ".flac",
+      ".aac"
+    ],
+    "video": [
+      ".mp4",
+      ".avi",
+      ".mov",
+      ".mkv",
+      ".webm"
+    ]
+  },
+  "paths": {
+    "uploads": ".data/uploads",
+    "index_dir": ".data/index",
+    "temp": ".data/temp"
+  },
+  "llm": {
+    "model_path": "",
+    "context_window": 4096,
+    "max_tokens": 384,
+    "temperature": 0.1,
+    "top_p": 0.95,
+    "max_context_chunks": 6
+  },
+  "embedding_dimensions": {
+    "text": 768,
+    "image": 512,
+    "audio": 512
+  }
+}

@@ -1,0 +1,50 @@
+# Core ML Libraries
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+faiss-cpu>=1.7.4
+
+# LLM and RAG
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+
+# Document Processing
+pypdf>=3.15.0
+python-docx>=0.8.11
+Pillow>=10.0.0
+pdfplumber>=0.10.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+unstructured>=0.10.0
+markdown>=3.4.0
+
+# Audio and Video Processing
+openai-whisper>=20231117
+pydub>=0.25.1
+
+# Vector Store
+chromadb>=0.4.0
+
+# Image Understanding and LLM
+ftfy
+regex
+tqdm
+huggingface_hub>=0.17.0
+ctransformers>=0.2.5
+llama-cpp-python>=0.2.6
+
+# Vector Storage
+chromadb>=0.4.0
+
+# Image Processing
+clip-by-openai>=1.0
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Offline LLM (optional)
+llama-cpp-python>=0.2.90
